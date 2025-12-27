@@ -1,13 +1,19 @@
 {
-  "name": "tunnel-cli",
+  "name": "@karthik_yk/tunnel-cli",
   "version": "1.0.0",
   "description": "Simple TCP & HTTP tunneling CLI (ngrok-style)",
   "bin": {
-    "tunnel": "./bin/tunnel.js"
+    "tunnel": "bin/tunnel.js"
   },
   "type": "commonjs",
   "main": "src/index.js",
-  "keywords": ["tunnel", "ngrok", "tcp", "http", "cli"],
+  "keywords": [
+    "tunnel",
+    "ngrok",
+    "tcp",
+    "http",
+    "cli"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github-personal:karthik617/tunnel-cli.git"
