@@ -4,7 +4,7 @@ A lightweight TCP & HTTP tunneling CLI (ngrok-style).
 
 ## Install
 ```bash
-npm install -g tunnel-cli
+npm install -g @karthik_yk/tunnel-cli
 
 # TCP tunnel
 tunnel tcp 3000
